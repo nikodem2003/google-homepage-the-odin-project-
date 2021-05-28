@@ -1,0 +1,17 @@
+.SearchButton{
+	color: rgb(0, 0, 0);
+	font-size: 16px;
+	line-height: 16px;
+	padding: 6px;
+	border-radius: 0px;
+	font-family: Georgia, serif;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal
+}
+
+
+/*sources: 
+htmlcheatsheet.com
+*/
