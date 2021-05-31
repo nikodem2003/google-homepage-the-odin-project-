@@ -6,17 +6,17 @@
 }
 
 .SearchBar{
-        display: inline-block;
-        margin-left: 30%;
-        margin-right: 30%;
-        width: 30%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 10%;
 }
 
 .SearchButton{
         display: inline-block;
-        margin-left: 30%;
-        margin-right: 70%;
-        width: 30%;
+        margin-left: 33%;
+        margin-right: auto;
+        width: 10%;
 	color: #000000;
 	font-size: 16px;
 	line-height: 16px;
@@ -32,10 +32,10 @@
 }
 
 .LuckyButton{
-        display: block;
-        margin-left: 30%;
+        display: inline-block;
+        margin-left: auto;
         margin-right: auto;
-        width: 30%;
+        width: 10%;
         color: #000000;
         font-size: 16px;
         line-height: 16px;
